@@ -1,4 +1,4 @@
-name: icapi_exytractors
+name: icapi_extractors
 sourceId: {{ icapi_extractors_source_id }}
 capabilities:
   - datasetsAcl:
