@@ -2,6 +2,7 @@ environment:
   name: prod
   project: cdf-bootcamp-20-prod
   validation-type: prod
+  selected:
   - modules/
   - modules/bootcamp/data_foundation
   - modules/bootcamp/ice_cream_api
